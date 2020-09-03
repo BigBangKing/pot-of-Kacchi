@@ -47,4 +47,4 @@ sample output:
 2000
 
 
-![Screenshot],(https://github.com/BigBangKing/pot-of-Kacchi/blob/master/Capture.PNG)
+![Screenshot](https://github.com/BigBangKing/pot-of-Kacchi/blob/master/Capture.PNG)
