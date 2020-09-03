@@ -47,4 +47,6 @@ sample output:
 2000
 
 
+Code working screenshot:
+
 ![Screenshot](https://github.com/BigBangKing/pot-of-Kacchi/blob/master/Capture.PNG)
