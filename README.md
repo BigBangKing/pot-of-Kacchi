@@ -45,3 +45,6 @@ sample output:
 --------------
 149256000
 2000
+
+
+![Screenshot],(https://github.com/BigBangKing/pot-of-Kacchi/blob/master/Capture.PNG)
